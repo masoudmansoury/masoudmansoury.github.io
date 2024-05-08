@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Masoud Mansoury"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,6 +19,7 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 
 # News
 
+* **6 May 2024:** Our workshop (SURE@RecSys2024) website is available at: [https://sites.google.com/view/sure-2024/home](https://sites.google.com/view/sure-2024/home).
 * **1 April 2024:** Started an assistant professor position on trustworthy and explainable recommender systems at [Delft University of Technology](https://www.tudelft.nl/).
 * **25 March 2024:** A full paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Going Beyond Popularity and Positivity Bias: Correcting for Multifactorial Bias in Recommender Systems</span>" accepted at [SIGIR 2024](https://sigir-2024.github.io/).
 * **25 March 2024:** Our workshop on "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Strategic and Utility-aware REcommendations (SURE)</span>" accepted at [RecSys 2024](https://recsys.acm.org/recsys24/).
