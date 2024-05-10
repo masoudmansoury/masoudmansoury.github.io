@@ -19,6 +19,7 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 
 # News
 
+* **10 May 2024:** A LBR paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Beyond Static Calibration: The Impact of User Preference Dynamics on Calibrated Recommendation</span>" accepted at [UMAP 2024](https://www.um.org/umap2024/).
 * **6 May 2024:** Our workshop website is available at: [SURE@RecSys2024](https://sites.google.com/view/sure-2024/home).
 * **1 April 2024:** Started an assistant professor position on trustworthy and explainable recommender systems at [Delft University of Technology](https://www.tudelft.nl/).
 * **25 March 2024:** A full paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Going Beyond Popularity and Positivity Bias: Correcting for Multifactorial Bias in Recommender Systems</span>" accepted at [SIGIR 2024](https://sigir-2024.github.io/).
