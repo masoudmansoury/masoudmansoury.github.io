@@ -15,6 +15,8 @@ In 2021, Masoud obtained his PhD in Computer and Information Science at [Eindhov
 Masoud's broad research interests lie in the area of **Trustworthy and Explainable Recommender Systems**. More specifically, he conducts research on the following topics: **1) Algorithmic bias:** tackling bias issue in recommendation models to improve the business aspects and accuracy of the recommendation systems and mitigating the unfairness issue that may raise due to algorithmic bias, **2) Explainability and Transparency:** understanding the logic behind the recommendation process, explaining the factors causing/leading to the recommendation outputs, **3) Robustness:** detecting the malicious behavior and patterns in recommendation process to avoid unwanted manipulation of this process.
 
 
+<span style='color:#FF0000;font-family:bold'>Update: I have an open PhD position on Trustworthy Recommender Systems. It covers fascinating topics including explainability, robustness, bias and fairness in recommender systems. The deadline for submittin the application is July 25, 2024. For more information check the [vacancy page](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=17765)</span>
+
 -------------------------------------------------------------------
 
 # News
