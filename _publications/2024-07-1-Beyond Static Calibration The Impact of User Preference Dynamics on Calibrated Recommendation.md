@@ -1,15 +1,15 @@
 ---
-title: "Going Beyond Popularity and Positivity Bias: Correcting for Multifactorial Bias in Recommender Systems"
+title: "Beyond Static Calibration: The Impact of User Preference Dynamics on Calibrated Recommendation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-authors: 'Jin Huang,&nbsp;Harrie Oosterhuis,&nbsp;Masoud Mansoury,&nbsp;Herke van Hoof,&nbsp;Maarten de Rijke'
-date: 2024-07-14
-venue: 'In the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2024'
+authors: 'Kun Lin,&nbsp;Masoud Mansoury,&nbsp;Farzad Eskandanian,&nbsp;Milad Sabouri,&nbsp;Bamshad Mobasher'
+date: 2024-07-01
+venue: 'The 32nd ACM Conference on User Modeling, Adaptation and Personalization, 2024'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-badge: 'SIGIR'
-paperurl: 'https://arxiv.org/pdf/2404.18640'
-codeurl: 'https://github.com/BetsyHJ/MultifactorialBias'
+badge: 'UMAP'
+paperurl: 'https://arxiv.org/pdf/2405.10232'
+codeurl: 'https://github.com/nicolelin13/DynamicCalibrationUMAP'
 dataurl: ''
 htmlurl: ''
 ---
