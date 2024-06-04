@@ -21,6 +21,8 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 
 # News
 
+* **30 May 2024:** I am invited to give a lecture on the topic of recommender system in [European Summer School in Information Retrieval (ESSIR)](https://2024.essir.eu/) at University of Amsterdam, Amsterdam, Netherlands.
+* **24 May 2024:** I'll be giving an invited talk in the doctoral consortium at the [Universidad Nacional de Educación a Distancia (UNED)](https://www.uned.es/universidad/inicio/en/), Madrid, Spain.
 * **10 May 2024:** A LBR paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Beyond Static Calibration: The Impact of User Preference Dynamics on Calibrated Recommendation</span>" accepted at [UMAP 2024](https://www.um.org/umap2024/).
 * **6 May 2024:** Our workshop website is available at: [SURE@RecSys2024](https://sites.google.com/view/sure-2024/home).
 * **1 April 2024:** Started an assistant professor position on trustworthy and explainable recommender systems at [Delft University of Technology](https://www.tudelft.nl/).
