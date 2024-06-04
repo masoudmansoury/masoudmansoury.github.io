@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 authors: 'Kun Lin,&nbsp;Masoud Mansoury,&nbsp;Farzad Eskandanian,&nbsp;Milad Sabouri,&nbsp;Bamshad Mobasher'
 date: 2024-07-01
-venue: 'The 32nd ACM Conference on User Modeling, Adaptation and Personalization, 2024'
+venue: 'The 32nd ACM Conference on User Modeling, Adaptation and Personalization (LBR), 2024'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 badge: 'UMAP'
 paperurl: 'https://arxiv.org/pdf/2405.10232'
