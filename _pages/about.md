@@ -21,6 +21,7 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 
 # News
 
+* **16 July 2024:** A full paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Mitigating Exposure Bias in Online Learning to Rank Recommendation: A Novel Reward Model for Cascading Bandits</span>" accepted at [CIKM 2024](https://cikm2024.org/).
 * **30 May 2024:** I am invited to give a lecture on the topic of recommender system in [European Summer School in Information Retrieval (ESSIR)](https://2024.essir.eu/) at University of Amsterdam, Amsterdam, Netherlands.
 * **24 May 2024:** I'll be giving an invited talk in the doctoral consortium at the [Universidad Nacional de Educación a Distancia (UNED)](https://www.uned.es/universidad/inicio/en/), Madrid, Spain.
 * **10 May 2024:** A LBR paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Beyond Static Calibration: The Impact of User Preference Dynamics on Calibrated Recommendation</span>" accepted at [UMAP 2024](https://www.um.org/umap2024/).
