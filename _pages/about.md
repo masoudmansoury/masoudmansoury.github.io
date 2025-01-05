@@ -15,12 +15,13 @@ In 2021, Masoud obtained his PhD in Computer and Information Science at [Eindhov
 Masoud's broad research interests lie in the area of **Trustworthy and Explainable Recommender Systems**. More specifically, he conducts research on the following topics: **1) Algorithmic bias:** tackling bias issue in recommendation models to improve the business aspects and accuracy of the recommendation systems and mitigating the unfairness issue that may raise due to algorithmic bias, **2) Explainability and Transparency:** understanding the logic behind the recommendation process, explaining the factors causing/leading to the recommendation outputs, **3) Robustness:** detecting the malicious behavior and patterns in recommendation process to avoid unwanted manipulation of this process.
 
 
-<span style='color:#FF0000;font-weight:bold'>To prospective and self-motivated students:</span> <span style='color:#FF0000;'>I have an open PhD position on Trustworthy Recommender Systems, covering fascinating topics such as explainability, robustness, bias and fairness in recommender systems. Deadline for submitting the application is July 25, 2024. For more information check the [vacancy page](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=17765).</span>
+<!-- <span style='color:#FF0000;font-weight:bold'>To prospective and self-motivated students:</span> <span style='color:#FF0000;'>I have an open PhD position on Trustworthy Recommender Systems, covering fascinating topics such as explainability, robustness, bias and fairness in recommender systems. Deadline for submitting the application is July 25, 2024. For more information check the [vacancy page](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=17765).</span> -->
 
 -------------------------------------------------------------------
 
 # News
 
+* **18 December 2024:** Accepted papers at our [SURE@RecSys2024](https://sites.google.com/view/sure-2024/home) are published at CEUR: https://ceur-ws.org/Vol-3873/.
 * **16 July 2024:** A full paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Mitigating Exposure Bias in Online Learning to Rank Recommendation: A Novel Reward Model for Cascading Bandits</span>" accepted at [CIKM 2024](https://cikm2024.org/).
 * **30 May 2024:** I am invited to give a lecture on the topic of recommender system in [European Summer School in Information Retrieval (ESSIR)](https://2024.essir.eu/) at University of Amsterdam, Amsterdam, Netherlands.
 * **24 May 2024:** I'll be giving an invited talk in the doctoral consortium at the [Universidad Nacional de Educación a Distancia (UNED)](https://www.uned.es/universidad/inicio/en/), Madrid, Spain.
