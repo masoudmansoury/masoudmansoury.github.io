@@ -6,14 +6,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/ 
+
   - title: "Activities"
     url: /activities/
 
   # - title: "Talks"
   #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
+   
     
   # - title: "Portfolio"
   #   url: /portfolio/
