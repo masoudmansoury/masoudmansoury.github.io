@@ -172,6 +172,12 @@
 <loc>http://localhost:4000/publications/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/recsys/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/talks/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/sitemap/</loc>
 </url>
 <url>
