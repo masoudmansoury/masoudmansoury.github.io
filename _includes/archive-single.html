@@ -23,7 +23,12 @@
     <div id="esmaeili2023topological" class="col-sm-8">
     
       <!-- Title -->
-    <div class="title">{{ title }}</div>
+    <div class="title">
+      {{ title }}
+      {% if title == "Going Beyond Popularity and Positivity Bias: Correcting for Multifactorial Bias in Recommender Systems" %}
+        <p style="color: rgb(181,47,140);font-weight: bold;">Best Paper Nominee</p>
+      {% endif %}
+    </div>
     <!-- Author -->
     <div class="author">{{post.authors}}</div>
 
