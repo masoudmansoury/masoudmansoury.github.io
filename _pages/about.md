@@ -21,6 +21,7 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 
 # News
 
+* **23 April 2025:** A paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Towards Carbon Footprint-Aware Recommender Systems for Greener Item Recommendation</span>" accepted at [ACM Journal on Recommender Systems (TORS)](https://dl.acm.org/journal/tors).
 * **18 December 2024:** Accepted papers at our [SURE@RecSys2024](https://sites.google.com/view/sure-2024/home) are published at [CEUR](https://ceur-ws.org/Vol-3873/).
 * **16 July 2024:** A full paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Mitigating Exposure Bias in Online Learning to Rank Recommendation: A Novel Reward Model for Cascading Bandits</span>" accepted at [CIKM 2024](https://cikm2024.org/).
 * **30 May 2024:** I am invited to give a lecture on the topic of recommender system in [European Summer School in Information Retrieval (ESSIR)](https://2024.essir.eu/) at University of Amsterdam, Amsterdam, Netherlands.
