@@ -30,10 +30,10 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 * **30 May 2024:** I am invited to give a lecture on the topic of recommender system in [European Summer School in Information Retrieval (ESSIR)](https://2024.essir.eu/) at University of Amsterdam, Amsterdam, Netherlands.
 * **24 May 2024:** I'll be giving an invited talk in the doctoral consortium at the [Universidad Nacional de Educación a Distancia (UNED)](https://www.uned.es/universidad/inicio/en/), Madrid, Spain.
 * **10 May 2024:** A LBR paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Beyond Static Calibration: The Impact of User Preference Dynamics on Calibrated Recommendation</span>" accepted at [UMAP 2024](https://www.um.org/umap2024/).
-<!-- * **6 May 2024:** Our workshop website is available at: [SURE@RecSys2024](https://sites.google.com/view/sure-2024/home).
+* **6 May 2024:** Our workshop website is available at: [SURE@RecSys2024](https://sites.google.com/view/sure-2024/home).
 * **1 April 2024:** Started an assistant professor position on trustworthy and explainable recommender systems at [Delft University of Technology](https://www.tudelft.nl/).
 * **25 March 2024:** A full paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Going Beyond Popularity and Positivity Bias: Correcting for Multifactorial Bias in Recommender Systems</span>" accepted at [SIGIR 2024](https://sigir-2024.github.io/).
 * **25 March 2024:** Our workshop on "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Strategic and Utility-aware REcommendations (SURE)</span>" accepted at [RecSys 2024](https://recsys.acm.org/recsys24/).
-* **14 December 2023:** A reproducibility paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Measuring Item Fairness in Next Basket Recommendation: A Reproducibility Study</span>" accepted at [ECIR 2024](https://www.ecir2024.org/). -->
+* **14 December 2023:** A reproducibility paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Measuring Item Fairness in Next Basket Recommendation: A Reproducibility Study</span>" accepted at [ECIR 2024](https://www.ecir2024.org/).
 
 
