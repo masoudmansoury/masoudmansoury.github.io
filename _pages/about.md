@@ -21,6 +21,7 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 
 # News
 
+* **3 July 2025:** A reproducibility paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>A Reproducibility Study of Product-side Fairness in Bundle Recommendation</span>" accepted at [RecSys](https://recsys.acm.org/recsys25/).
 * **28 April 2025:** A paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Towards Explainable Temporal User Profiling with LLMs</span>" accepted at [Explainable User Models and Personalized Systems (ExUM)](https://swap.di.uniba.it/exum/) workshop at [UMAP](https://www.um.org/umap2025/).
 * **23 April 2025:** A paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Towards Carbon Footprint-Aware Recommender Systems for Greener Item Recommendation</span>" accepted at [ACM Journal on Recommender Systems (TORS)](https://dl.acm.org/journal/tors).
 * **18 December 2024:** Accepted papers at our [SURE@RecSys2024](https://sites.google.com/view/sure-2024/home) are published at [CEUR](https://ceur-ws.org/Vol-3873/).
