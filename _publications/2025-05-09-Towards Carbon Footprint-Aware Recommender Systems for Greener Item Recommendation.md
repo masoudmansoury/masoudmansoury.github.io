@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 authors: 'Raoul Kalisvaart,&nbsp;Masoud Mansoury,&nbsp;Alan Hanjalic,&nbsp;Elvin Isufi'
 date: 2025-05-09
-venue: 'In ACM Transactions on Recommender Systems'
+venue: 'In ACM Transactions on Recommender Systems, 2025'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 badge: 'TORS'
 paperurl: 'https://dl.acm.org/doi/10.1145/3735144'

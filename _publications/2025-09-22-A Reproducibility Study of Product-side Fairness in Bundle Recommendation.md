@@ -1,15 +1,15 @@
 ---
-title: "Towards Explainable Temporal User Profiling with LLMs"
+title: "A Reproducibility Study of Product-side Fairness in Bundle Recommendation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-authors: 'Milad Sabouri,&nbsp;Masoud Mansoury,&nbsp;Kun Lin,&nbsp;Bamshad Mobasher'
-date: 2025-06-12
-venue: 'In Adjunct Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization, 2025'
+authors: 'Huy Son Nguyen,&nbsp;Yuanna Liu,&nbsp;Masoud Mansoury,&nbsp;Mohammad Alian Nejadi,&nbsp;Alan Hanjalic,&nbsp;Maarten de Rijke'
+date: 2025-09-22
+venue: 'In Proceedings of the 19th ACM Conference on Recommender Systems, 2025'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-badge: 'UMAP Workshop'
-paperurl: 'https://dl.acm.org/doi/10.1145/3708319.3733655'
-codeurl: 'https://github.com/milsab/TETUP'
+badge: 'RecSys'
+paperurl: ''
+codeurl: ''
 dataurl: ''
 htmlurl: ''
 ---
