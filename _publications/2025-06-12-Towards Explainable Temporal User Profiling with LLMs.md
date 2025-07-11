@@ -1,16 +1,16 @@
 ---
-title: "Towards Carbon Footprint-Aware Recommender Systems for Greener Item Recommendation"
+title: "Towards Explainable Temporal User Profiling with LLMs"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-authors: 'Raoul Kalisvaart,&nbsp;Masoud Mansoury,&nbsp;Alan Hanjalic,&nbsp;Elvin Isufi'
-date: 2025-05-09
-venue: 'In ACM Transactions on Recommender Systems'
+authors: 'Milad Sabouri,&nbsp;Masoud Mansoury,&nbsp;Kun Lin,&nbsp;Bamshad Mobasher'
+date: 2025-06-12
+venue: 'In Adjunct Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-badge: 'TORS'
-paperurl: 'https://dl.acm.org/doi/10.1145/3735144'
-codeurl: 'https://github.com/RaoulKalisvaart/green-recommender-systems'
-dataurl: 'https://github.com/RaoulKalisvaart/green-recommender-systems'
+badge: 'UMAP'
+paperurl: 'https://dl.acm.org/doi/10.1145/3708319.3733655'
+codeurl: 'https://github.com/milsab/TETUP'
+dataurl: ''
 htmlurl: ''
 ---
 
