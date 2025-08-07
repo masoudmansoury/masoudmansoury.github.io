@@ -21,6 +21,7 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 
 # News
 
+* **7 August 2025:** A workshop paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Using LLMs to Capture Users' Temporal Context for Recommendation</span>" accepted at [CARS](https://cars-workshops.com/)@[RecSys](https://recsys.acm.org/recsys25/).
 * **4 August 2025:** Two LBR papers "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</span>" and "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Mitigating Popularity Bias in Counterfactual Explanations using Large Language Models</span>" accepted at [RecSys](https://recsys.acm.org/recsys25/).
 * **11 July 2025:** A full paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>RaMen: Multi-Strategy Multi-Modal Learning for Bundle Construction</span>" accepted at [ECAI](https://ecai2025.org/).
 * **3 July 2025:** A reproducibility paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>A Reproducibility Study of Product-side Fairness in Bundle Recommendation</span>" accepted at [RecSys](https://recsys.acm.org/recsys25/).
