@@ -21,6 +21,7 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 
 # News
 
+* **13 January 2026:** A paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>From Insight to Intervention: Interpretable Neuron Steering for Controlling Popularity Bias in Recommender Systems</span>" accepted at [WWW](https://www2026.thewebconf.org/).
 * **17 December 2025:** A paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Joint Modeling of Candidate and Recruiter Preferences for Fair Two-Sided Job Matching</span>" accepted at [ECIR](https://ecir2026.eu/).
 * **18 September 2025:** A workshop paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Effectiveness of LLMs in Temporal User Profiling for Recommendation</span>" accepted at [UMRec](https://umrec.github.io/)@[ICDM](https://www3.cs.stonybrook.edu/~icdm2025/index.html/).
 * **7 August 2025:** A workshop paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Using LLMs to Capture Users' Temporal Context for Recommendation</span>" accepted at [CARS](https://cars-workshops.com/)@[RecSys](https://recsys.acm.org/recsys25/).
