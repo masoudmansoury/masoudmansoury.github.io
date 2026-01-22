@@ -8,8 +8,8 @@ date: 2026-04-13
 venue: 'The ACM Web Conference'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 badge: 'WWW'
-paperurl: ''
-codeurl: ''
+paperurl: 'https://arxiv.org/abs/2601.15122'
+codeurl: 'https://github.com/parepic/PopSteer2.0'
 dataurl: ''
 htmlurl: ''
 ---
