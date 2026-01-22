@@ -12,7 +12,7 @@ redirect_from:
 ### Conference & Workshop Organization
 
 <!-- * <span style='color:rgb(156,161,165);font-weight: bold;'>September 2024:</span> Co-Chair, Workshop on Strategic and Utility-aware REcommendations (SURE) at RecSys 2024 -->
-* Local Organization, [European Conference on Information Retrieval (ECIR 2026)](https://ecir2026.eu/index.php)
+* Local Organization, [European Conference on Information Retrieval (ECIR) 2026](https://ecir2026.eu/index.php)
 * Co-Chair, [Workshop on Strategic and Utility-aware REcommendations (SURE)](https://sites.google.com/view/sure-2024/home) at RecSys 2024 ([Proceedings](https://ceur-ws.org/Vol-3873/))
 * Co-Chair, [2nd Workshop on Multi-Objective Recommender Systems (MORS)](https://recsys.acm.org/recsys22/mors/) at RecSys 2022 ([Proceedings](https://ceur-ws.org/Vol-3268/))
 * Video Chair, [29th Conference on User Modeling, Adaptation, and Personalization (UMAP) 2021](https://www.um.org/umap2021/)
