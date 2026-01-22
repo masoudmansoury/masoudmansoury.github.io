@@ -18,7 +18,7 @@ redirect_from:
 * Co-Chair, [1st Workshop on Multi-Objective Recommender Systems (MORS)](https://recsys.acm.org/recsys21/mors/) at RecSys 2021 ([Proceedings](https://ceur-ws.org/Vol-2959/))
 
 ### Program Committee Member
-* **2026**: [WWW](https://www2026.thewebconf.org/), [ECIR](https://ecir2026.eu/)
+* **2026**: [WWW](https://www2026.thewebconf.org/), [ECIR](https://ecir2026.eu/), [Perspectives@SIGIR](https://sigir2026.org/en-AU/pages/submissions/perspectives-track)
 * **2025**: [RecSys](https://recsys.acm.org/recsys25/), [ECIR](https://ecir2025.eu/), [UMAP](https://www.um.org/umap2025/), [ECAI](https://ecai2025.org/), [Perspectives@SIGIR](https://sigir2025.dei.unipd.it/call-perspectives-papers.html), [CONSEQUENCES@RecSys](https://sites.google.com/view/consequences2025/home), [RecSoGood@RecSys](https://recsogood.github.io/recsogood25/)
 * **2024**: [RecSys](https://recsys.acm.org/recsys24/), [UAI](https://www.auai.org/uai2024/), [EWAF](https://2024.ewaf.org/), [ECAI](https://www.ecai2024.eu/), [CIKM](https://cikm2024.org/), [IRForGoods@ECIR](https://www.ecir2024.org/2023/07/24/call-for-ir-for-good-papers/), [RecSysHR@RecSys](https://recsyshr.aau.dk/)
 * **2023**: [RecSys](https://recsys.acm.org/recsys23/), [SIGIR](https://sigir.org/sigir2023/), [FAccT](https://facctconference.org/2023/), [EWAF](https://sites.google.com/view/ewaf23), [RecEcoSys@AAAI](https://sites.google.com/view/recommender-ecosystems/home), [AFT@NeurIPS](https://www.afciworkshop.org/aft2023), [BIAS@ECMLPKDD](https://sites.google.com/view/bias2023/)
