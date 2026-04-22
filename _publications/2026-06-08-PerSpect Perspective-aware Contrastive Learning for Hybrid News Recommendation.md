@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 authors: 'Payam Pourashraf,&nbsp;Masoud Mansoury,&nbsp;Bamshad Mobasher'
-date: 2024-07-01
+date: 2026-06-08
 venue: 'The 34th ACM Conference on User Modeling, Adaptation and Personalization (LBR), 2026'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 badge: 'UMAP'

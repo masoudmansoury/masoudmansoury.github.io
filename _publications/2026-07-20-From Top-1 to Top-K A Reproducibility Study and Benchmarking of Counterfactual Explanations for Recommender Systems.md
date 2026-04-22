@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 authors: 'PQuang-Huy Nguyen,&nbsp;Thanh-Hai Nguyen,&nbsp;Khac-Manh Thai,&nbsp;Duc-Hoang Pham,&nbsp;Huy-Son Nguyen,&nbsp;Cam-Van Thi Nguyen,&nbsp;Masoud Mansoury,&nbsp;Duc-Trong Le,&nbsp;Hoang-Quynh Le'
-date: 2024-07-01
+date: 2026-07-20
 venue: '49th international ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 badge: 'SIGIR'
