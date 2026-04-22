@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 authors: 'Clara Rus,&nbsp;Masoud Mansoury,&nbsp;Andrew Yates,&nbsp;Maarten de Rijke'
 date: 2026-04-01
-venue: '48th European Conference on Information Retrieval'
+venue: '48th European Conference on Information Retrieval, 2026'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 badge: 'ECIR'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-032-21324-2_27'
