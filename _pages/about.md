@@ -21,6 +21,7 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 
 # News
 
+* **21 April 2026:** A LBR paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>PerSpect: Perspective-aware Contrastive Learning for Hybrid News Recommendation</span>" accepted at [UMAP 2026](https://www.um.org/umap2026/).
 * **3 April 2026:** A reproducibility paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems</span>" accepted at [SIGIR](https://sigir2026.org/en-AU).
 * **13 January 2026:** A paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>From Insight to Intervention: Interpretable Neuron Steering for Controlling Popularity Bias in Recommender Systems</span>" accepted at [WWW](https://www2026.thewebconf.org/).
 * **17 December 2025:** A paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Joint Modeling of Candidate and Recruiter Preferences for Fair Two-Sided Job Matching</span>" accepted at [ECIR](https://ecir2026.eu/).
