@@ -21,6 +21,7 @@ Masoud's broad research interests lie in the area of **Trustworthy and Explainab
 
 # News
 
+* **14 October 2026:** I will be serving as an Area Chair for [The Web Conference (WWWW) 2027](https://www2027.thewebconf.org/).
 * **31 July 2026:** A journal paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>The Unfairness of Multifactorial Bias in Recommendation</span>" accepted at [TOIS](https://dl.acm.org/journal/TOIS).
 * **9 May 2026:** A journal paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>Interactive Query Answering on Knowledge Graphs with Soft Entity Constraints</span>" accepted at [TMLR](https://jmlr.org/tmlr/index.html).
 * **21 April 2026:** A LBR paper "<span style='color:#BF1E8D;font-family: "Book Antiqua";'>PerSpect: Perspective-aware Contrastive Learning for Hybrid News Recommendation</span>" accepted at [UMAP 2026](https://www.um.org/umap2026/).
